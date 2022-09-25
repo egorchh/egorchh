@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=egorchh&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="podolskij" align="right" />
 </a>
 
-- 👀 I'm actively looking for a job
+- 👀 Actively looking for a job
 - 👨‍🎓 Continuously learning and striving for new knowledge
 - :speech_balloon: &nbsp;Developed softskills and good sense of humor
 - 🤙 Let's talk more in **[Telegram](https://t.me/egorchickk)** or **[VKontakte](https://vk.com/egorchh)**
