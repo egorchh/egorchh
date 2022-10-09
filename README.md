@@ -74,7 +74,8 @@
 > Frontend
 
 <table width='100%'>
-  <td align="center" width="96"> 
+  <tr>
+    <td align="center" width="96"> 
       <a href="#podolskij-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       </a>
@@ -86,7 +87,6 @@
       </a>
       <br>Html5
     </td>
-  <tr>
     <td align="center" width="96">
       <a href="#podolskij-stack">
         <img src="https://img.icons8.com/officel/344/react.png" width="48" height="48" alt="React" />
