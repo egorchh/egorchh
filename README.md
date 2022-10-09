@@ -89,9 +89,9 @@
     </td>
     <td align="center" width="96">
       <a href="#podolskij-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="48" height="48" alt="React" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React" />
       </a>
-      <br>Reac
+      <br>React
     </td>
     <td align="center" width="96"> 
       <a href="#podolskij-stack" >
