@@ -89,9 +89,9 @@
     </td>
     <td align="center" width="96">
       <a href="#podolskij-stack">
-        <img src="https://img.icons8.com/officel/344/react.png" width="48" height="48" alt="React" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React JS
+      <br>Reac
     </td>
     <td align="center" width="96"> 
       <a href="#podolskij-stack" >
@@ -137,7 +137,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#podolskij-stack">
-        <img src="https://img.icons8.com/color/344/react-native.png" width="48" height="48" alt="React Native" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
     </td>
