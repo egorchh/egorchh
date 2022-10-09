@@ -74,6 +74,18 @@
 > Frontend
 
 <table width='100%'>
+  <td align="center" width="96"> 
+      <a href="#podolskij-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+    <td align="center" width="96">
+      <a href="#podolskij-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
   <tr>
     <td align="center" width="96">
       <a href="#podolskij-stack">
@@ -92,18 +104,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-     <td align="center" width="96"> 
-      <a href="#podolskij-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="96">
-      <a href="#podolskij-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
     </td>
     <td align="center" width="96"> 
       <a href="#podolskij-stack" >
