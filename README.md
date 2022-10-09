@@ -47,7 +47,13 @@
       <a href="#podolskij-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
       </a>
-      <br>Github
+      <br>GitHub
+    </td>
+    <td align="center" width="96"> 
+      <a href="#podolskij-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="48" height="48" alt="gitlab" />
+      </a>
+      <br>GitLab
     </td>
   </tr> 
 </table>
