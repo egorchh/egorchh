@@ -87,6 +87,12 @@
       </a>
       <br>Redux
     </td>
+    <td align="center" width="96"> 
+      <a href="#podolskij-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
      <td align="center" width="96"> 
       <a href="#podolskij-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
