@@ -178,6 +178,12 @@
       </a>
       <br>MySQL
     </td>
+    <td align="center" width="96"> 
+      <a href="#podolskij-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
   </tr> 
 </table>
 
