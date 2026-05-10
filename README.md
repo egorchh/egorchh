@@ -1,1 +1,1 @@
-<h2 align="left">Alright, alright, alrigh!</h2>
+<h2 align="left">Олрайт, олрайт, олрайт!</h2>
